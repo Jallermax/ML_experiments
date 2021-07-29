@@ -15,6 +15,7 @@ lib/
 lib64/
 .installed.cfg
 MANIFEST
+*.bck
 
 # Jupyter Notebook
 .ipynb_checkpoints
